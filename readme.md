@@ -63,7 +63,7 @@ jupyter notebook
 ---
 
 ## 💾 Sumber Data
-Dataset berasal dari **Layoffs.fyi** (diunduh 19 May 2025).  
+Dataset berasal dari **Layoffs.fyi** ( https://www.kaggle.com/datasets/swaptr/layoffs-2022 ).  
 Lisensi data mengikuti ketentuan situs sumber.
 
 ---
