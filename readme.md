@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?logo=python&logoColor=white) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) 
-![Last Update](https://img.shields.io/badge/Last_Update-2025-05-19-orange)
 
 Selamat datang di repositori proyek **Analisis & Visualisasi Data Layoffs**.  
 Repo ini disiapkan sebagai deliverable **Tugas DW #6** dan berisi notebook, dataset, serta dokumentasi pendukung untuk memahami tren pemutusan hubungan kerja (_layoff_) global pada periode 2020‑2025.
