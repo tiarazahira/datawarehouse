@@ -53,14 +53,6 @@ jupyter notebook
 
 ---
 
-## 📈 Cuplikan Hasil
-> _Screenshot di bawah hanya contoh; silakan jalankan notebook untuk grafik interaktif._
-
-| Tren PHK Global | Top Industri | Tahap Pendanaan vs PHK |
-|---|---|---|
-| ![line](https://placehold.co/250x140?text=Line+Chart) | ![bar](https://placehold.co/250x140?text=Bar+Chart) | ![scatter](https://placehold.co/250x140?text=Scatter) |
-
----
 
 ## 📝 Penjelasan Notebook
 1. **Analisis Kebutuhan** – merangkum lima pendekatan (data‑, goal‑, process‑, user‑, externally‑driven).  
